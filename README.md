@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/anonyBoss/trapped"><img style="width: 200px;height: 220px;" src="https://i.ibb.co/G78nNVd/logo.png" alt="shmn"></a>
   <br>
-  Trapped - SMTP Scanner
+  Trapped - SMTP Cracker and Checker
   <br>
 </h1>
 
