@@ -21,17 +21,17 @@
 ## Features
 
 - **SMTP Server Detection:** Identify SMTP servers from given domain names.
-- **TLS Detection:** Determine if SMTP servers require TLS and identify the appropriate port (e.g., 465, 587, or other SMTP protocols).
+- **TLS Detection:** Determine if SMTP servers require TLS and identify the appropriate port (e.g., 465, 587).
 - **Login Verification:** Verify if login credentials are valid.
-- **Test Message Sending:** Send test messages using input files (.html/.txt) or combo lists (email:pass).
-- **Combo Lists Support:** Support starting by combo lists (email:pass) or two separate files (emails.txt/passwords.txt).
+- **Test Message Sending:** Send test messages .
+- **Combo Lists Support:** Support starting by combo lists (email:pass) .
 - **Output Rechecking:** Recheck the outputs for valid SMTP logs.
 - **Output Logging:** Save SMTP servers and outputs.
 - **User-Friendly GUI:** Easy-to-use graphical interface.
 - **Cross-Platform Compatibility:** Works seamlessly on Linux, Windows, and Mac.
 - **Fast Processing:** Utilizes threading options for faster processing.
 - **Proxy Support:** Includes an option for using proxies.
-- **Log Saving Options:** Save logs in text files, send them to a Telegram bot, and/or email.
+- **Log Saving Options:** Save logs in text files.
 
 ## Usage
 
